@@ -8,7 +8,7 @@ There are 5 points to achieve:
 
 ▶ One point for the implementation of the AI player.
 
-The task:
+## The task:
 
 ▶ Implement Connect Four such that it can be played on the Python console.
 
@@ -20,13 +20,13 @@ The task:
 
 ▶ The (human) moves are made by asking for a column number (counting starting from 0 or 1) or if the player wants to restart or quit the game (which is then of course also possible).
 
-The task (2):
+## The task (2):
 
 ▶ If a non-valid move is made by a player, it is asked again until a valid move is given as user input (or the restart or quit options are selected).
 
 ▶ After each move, the board is printed to the console again. 
 
-The AI player:
+## The AI player:
 
 ▶ Connect Four can be played (for small board sizes) optimally by an algorithm exploring all possible moves, the so called “Minimax” algorithm.
 
@@ -48,4 +48,4 @@ The AI player:
 
 ▶ Your console printout does not have to reproduce the example given before - it may be simpler. The only condition is that the board is clearly visible.
 
-The implementation is currently in progress
+### The implementation is currently in progress
