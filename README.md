@@ -1,9 +1,5 @@
 # Connect-Four Game
 
-AI based game implemented using python
-
-The implementation is currently in progress
-
 There are 5 points to achieve:
 
 ▶ One point for sticking to the general rules.
@@ -51,3 +47,5 @@ The AI player:
 ▶ What functions/methods do you need to make the Minimax algorithm work?
 
 ▶ Your console printout does not have to reproduce the example given before - it may be simpler. The only condition is that the board is clearly visible.
+
+The implementation is currently in progress
